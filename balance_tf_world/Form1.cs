@@ -1115,22 +1115,7 @@ namespace balance_tf_world
             progressBar3.Value = hp;
             progressBar2.Value = dp;
             progressBar1.Value = ap;
-            k1m = 0;
-            k2m = 0;
-            k3m = 0;
-            k4m = 0; 
-            k5m = 0; 
-            k6m = 0;
-            k7m = 0; 
-            k8m = 0;
-            k9m = 0;
-            k10m = 0;
-            k11m = 0;
-            k12m = 0;
-            k13m = 0;
-            k14m = 0;
-            k15m = 0;
-            k16m = 0;
+            
             para = para + (k1m * k1g) + (k2m * k2g) + (k3m * k3g) + (k4m * k4g) + (k5m * k5g) + (k5m * k5g) + (k6m * k6g) + (k7m * k7g) + (k8m * k8g) + (k9m * k9g) + (k10m * k10g) + (k11m * k11g) + (k12m * k12g) + (k13m * k13g) + (k14m * k14g) + (k15m * k15g) + (k16m * k16g);
             
 

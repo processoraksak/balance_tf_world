@@ -8,3 +8,14 @@ C:\Users\Processor\Desktop\c#\balance_tf_world\balance_tf_world\obj\Debug\balanc
 C:\Users\Processor\Desktop\c#\balance_tf_world\balance_tf_world\obj\Debug\balance_tf_world.exe
 C:\Users\Processor\Desktop\c#\balance_tf_world\balance_tf_world\obj\Debug\balance_tf_world.pdb
 C:\Users\Processor\Desktop\c#\balance_tf_world\balance_tf_world\obj\Debug\balance_tf_world.Form2.resources
+C:\Users\Egeca\Desktop\Yeni klasör\balance_tf_world-master\balance_tf_world-master\balance_tf_world\bin\Debug\balance_tf_world.exe.config
+C:\Users\Egeca\Desktop\Yeni klasör\balance_tf_world-master\balance_tf_world-master\balance_tf_world\bin\Debug\balance_tf_world.exe
+C:\Users\Egeca\Desktop\Yeni klasör\balance_tf_world-master\balance_tf_world-master\balance_tf_world\bin\Debug\balance_tf_world.pdb
+C:\Users\Egeca\Desktop\Yeni klasör\balance_tf_world-master\balance_tf_world-master\balance_tf_world\obj\Debug\balance_tf_world.csprojAssemblyReference.cache
+C:\Users\Egeca\Desktop\Yeni klasör\balance_tf_world-master\balance_tf_world-master\balance_tf_world\obj\Debug\balance_tf_world.Form1.resources
+C:\Users\Egeca\Desktop\Yeni klasör\balance_tf_world-master\balance_tf_world-master\balance_tf_world\obj\Debug\balance_tf_world.Form2.resources
+C:\Users\Egeca\Desktop\Yeni klasör\balance_tf_world-master\balance_tf_world-master\balance_tf_world\obj\Debug\balance_tf_world.Properties.Resources.resources
+C:\Users\Egeca\Desktop\Yeni klasör\balance_tf_world-master\balance_tf_world-master\balance_tf_world\obj\Debug\balance_tf_world.csproj.GenerateResource.cache
+C:\Users\Egeca\Desktop\Yeni klasör\balance_tf_world-master\balance_tf_world-master\balance_tf_world\obj\Debug\balance_tf_world.csproj.CoreCompileInputs.cache
+C:\Users\Egeca\Desktop\Yeni klasör\balance_tf_world-master\balance_tf_world-master\balance_tf_world\obj\Debug\balance_tf_world.exe
+C:\Users\Egeca\Desktop\Yeni klasör\balance_tf_world-master\balance_tf_world-master\balance_tf_world\obj\Debug\balance_tf_world.pdb
